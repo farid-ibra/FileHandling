@@ -1,0 +1,4 @@
+Index of youngest employee: 18
+Number of employees have 'ma' in their name: 2
+Number of employees whose name consist of three or more words: 2
+And their names: Henry John McCarter , Jack Ma Lee Xue , 

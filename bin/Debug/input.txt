@@ -1,0 +1,7 @@
+Orxan Qurbanli;24;junior;2000
+Rasul Nabiyev;23;senior;5000
+Leyla Suleymanova;25;senior;4000
+Elgun Azizli;21;junior;1500
+Kamil Aliyev;22;junior;2500
+Henry John McCarter;18;junior;3500
+Jack Ma Lee Xue;35;senior;6000

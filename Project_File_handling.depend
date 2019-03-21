@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1521971231 source:c:\users\ferid_0000\desktop\project_file_handling\prj.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	"prj.h"
+	<fstream>
+
+1521968207 source:c:\users\ferid_0000\desktop\project_file_handling\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	"prj.h"
+
+1521968548 c:\users\ferid_0000\desktop\project_file_handling\prj.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+
+1521968207 source:c:\users\ferid_0000\desktop\ii semestr\programming\project_file_handling\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	"prj.h"
+
+1521968548 c:\users\ferid_0000\desktop\ii semestr\programming\project_file_handling\prj.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+
+1521973204 source:c:\users\ferid_0000\desktop\ii semestr\programming\project_file_handling\prj.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<vector>
+	"prj.h"
+	<fstream>
+
